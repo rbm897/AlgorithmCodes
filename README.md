@@ -1,2 +1,2 @@
-# AlgorithmCodes
-Implementation of few Algorithms
+# DS-Algo
+Implementation of Data Structure and few Algorithms
